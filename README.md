@@ -1,1 +1,3 @@
 # Psychic-Game
+
+This psychic game starts when the user presses a letter key. The user has 9 tries to guess the correct letter the computer has chosen. If the user guesses the correct letter within 9 guesses, the user score will increase by 1 and a new round will begin. If the user is unable to correclty guess the computer letter within 9 tries, the user losses will increase by 1 and the game will reset to begin a new round.
